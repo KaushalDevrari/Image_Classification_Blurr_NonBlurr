@@ -65,7 +65,7 @@ import os
     leading to a good real time accuracy
     
     
-#####  Thanks for viewing for more detailed version please check out my ipynb Notebook
+#####  Thanks for viewing for more details Check out my ipynb Notebook..
 
 
 
